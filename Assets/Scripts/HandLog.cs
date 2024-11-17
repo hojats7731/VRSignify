@@ -122,4 +122,9 @@ public class HandLog : MonoBehaviour
         }
         textUi.text = newText;
     }
+
+    public void A_Detected()
+    {
+        Debug.Log("---------++++++++++++ This is A ----------+++++++++");
+    }
 }

@@ -5,9 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: "Assets/Samples/Meta XR Interaction \u200BSDK/69.0.2/Example Scenes/PoseExamples.unity"
+    guid: 4fe358b21fe17764db89a9ab9f202327
+  - enabled: 1
+    path: Assets/Scenes/PoseExamples.unity
+    guid: e44a48018292c4bf9a796de19edcdf61
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ff3f39480fa6f4753be1c5937efbc6a3, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e9977ab5a2bcc4422a0f37574335dbbf, type: 2}
